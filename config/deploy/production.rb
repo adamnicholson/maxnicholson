@@ -1,3 +1,3 @@
-role :app, %w{root@alex-nicholson.co.uk}
+role :app, %w{root@maxnicholson.co.uk}
 
 set :branch, "master"

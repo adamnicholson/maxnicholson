@@ -1,5 +1,5 @@
-set :repo_url, 'git@github.com:adamnicholson/alexnicholson.git'
-set :deploy_to, '/opt/alex-nicholson.co.uk'
+set :repo_url, 'git@github.com:adamnicholson/maxnicholson.git'
+set :deploy_to, '/opt/maxnicholson.co.uk'
 
 namespace :deploy do
 
